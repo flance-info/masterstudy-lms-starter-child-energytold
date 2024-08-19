@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hello-theme-child-master/.idea/hello-theme-child-master.iml" filepath="$PROJECT_DIR$/../hello-theme-child-master/.idea/hello-theme-child-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../plugins/masterstudy-lms-learning-management-system/.idea/masterstudy-lms-learning-management-system.iml" filepath="$PROJECT_DIR$/../../plugins/masterstudy-lms-learning-management-system/.idea/masterstudy-lms-learning-management-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../plugins/masterstudy-lms-learning-management-system-pro/.idea/masterstudy-lms-learning-management-system-pro.iml" filepath="$PROJECT_DIR$/../../plugins/masterstudy-lms-learning-management-system-pro/.idea/masterstudy-lms-learning-management-system-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/masterstudy-lms-starter-child.iml" filepath="$PROJECT_DIR$/.idea/masterstudy-lms-starter-child.iml" />
+    </modules>
+  </component>
+</project>
