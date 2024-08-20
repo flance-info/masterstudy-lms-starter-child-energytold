@@ -6,6 +6,9 @@
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  */
 
+require_once 'inc/helpers.php';
+
+
 /*
  * If your child theme has more than one .css file (eg. ie.css, style.css, main.css) then
  * you will have to make sure to maintain all of the parent theme dependencies.
