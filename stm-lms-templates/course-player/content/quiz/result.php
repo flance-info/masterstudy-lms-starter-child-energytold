@@ -42,7 +42,7 @@
 				<?php } ?>
 			</div>
 			<?php
-			if ( $is_retakable && $progress < $passing_grade ) {
+			if ( $is_retakable  ) {
 				?>
 				<div class="masterstudy-course-player-quiz__result-retake">
 				<?php
